@@ -1,7 +1,7 @@
 
 ## CLONE
 ```bash
-git clone https://github.com/davidrepository/Game-Finder.git
+git clone https://github.com/davidrepository/game-finder-app.git
 ```
 
 ## INSTALL
