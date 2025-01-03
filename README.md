@@ -1,4 +1,4 @@
-### 1. Copy repository
+### 1. Clone repository
 `git clone https://github.com/davidrepository/game-finder-app.git`
 
 ### 2. Install packages
