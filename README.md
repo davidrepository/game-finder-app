@@ -1,16 +1,12 @@
 ### 1. Copy repository
-
-Copy and paste repository in terminal: `https://github.com/davidrepository/game-finder-app.git`
+`git clone https://github.com/davidrepository/game-finder-app.git`
 
 ### 2. Install packages
-
-Run `npm install`
+`npm install`
 
 ### 3. Run project
+`npm run dev`
 
-Run `npm run dev`
-
-### 4. Open it
-
-Go to `http://localhost:3000`
+### 4. Open
+`http://localhost:3000`
 
